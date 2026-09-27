@@ -1,7 +1,7 @@
 class Hamming
 {
-    String szo1;
-    String szo2;
+    private String szo1;
+    private String szo2;
 
     public Hamming(String szo1, String szo2)
     {
